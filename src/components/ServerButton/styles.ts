@@ -56,7 +56,7 @@ export const Button = styled.button<Props>`
 
     text-align: right;
     font-size: 13px;
-    font-font-weight: bold;
+    font-weight: bold;
     color: var(--white);
 
   content: '${(props) => props.mentions && props.mentions}';
