@@ -1,9 +1,16 @@
 import React from 'react';
 
-// import { Container } from './styles';
+import Layout from './components/Layout';
+import GlobalStyles from './styles/GlobalStyles';
 
 const App: React.FC = () => {
-  return <h1>Hello World</h1>;
+  return (
+    <>
+      <Layout />
+
+      <GlobalStyles />
+    </>
+  );
 };
 
 export default App;
