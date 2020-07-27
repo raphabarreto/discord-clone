@@ -39,6 +39,11 @@
 
 ---
 
+## ✨ Demonstração
+<p >Acesse <a href="https://discord-clone.raphabarreto.com.br/">aqui</a> para ver a demonstração do resultado final.</p>
+
+---
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
