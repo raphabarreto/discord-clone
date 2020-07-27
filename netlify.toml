@@ -1,4 +1,5 @@
 [[redirects]]
-  from = "https://discord-clone.raphabarreto.com.br/"
-  to = "https://raphabarreto.com.br/discord-clone"
+  from = "/discord-clone"
+  to = "https://discord-clone.raphabarreto.com.br/:splat"
   status = 200
+  force = true
