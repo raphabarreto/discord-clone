@@ -9,7 +9,6 @@ export const Container = styled.div`
   justify-content: space-between;
 
   background-color: var(--primary);
-  padding: 1.5px 4px;
 `;
 
 export const Messages = styled.div`
@@ -32,7 +31,6 @@ export const Messages = styled.div`
 
   ::-webkit-scrollbar-track {
     background-color: var(--secondary);
-    border-radius: 4px;
   }
 `;
 
@@ -60,7 +58,7 @@ export const Input = styled.input`
 
   ~ svg {
     position: relative;
-    top: -34px;
+    top: -50%;
     left: 14px;
     transition: 180ms ease-in-out;
   }
