@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://github.com/raphabarreto/discord-clone/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/raphabarreto/ecoleta">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/raphabarreto/discord-clone">
   </a>
 
   <a href="https://github.com/raphabarreto/discord-clone/blob/master/LICENSE.md">
@@ -58,7 +58,7 @@ Esta aplicação é uma reprodução da interface do [Discord](https://discord.c
 
 ---
 
-## 🌐 Frontend
+## 🌐 Resultado
 <h1 align="center">
     <img alt="Discord Clone" title="#delicinha" src=".github/discord-clone.png" />
 </h1>
